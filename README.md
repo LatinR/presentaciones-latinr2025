@@ -9,6 +9,20 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 
 ## Keynotes
 
+### Heather Turner: Lowering Barriers to Contributing to R
+
+It is 30 years since R was released under an open source license and today R is used by millions of people worldwide. Ensuring that R remains a solid foundation for people’s work requires ongoing development and maintenance. The general R community can play an important part in sustaining R for the future. In this keynote, I’ll share some recent initiatives that lower barriers to contribution. We’ll explore two tools that simplify the process of contributing:
+
+Weblate for contributing translations of errors, warnings and messages, and the R Dev Container for contributing to the code and documentation. These tools require minimal setup, so you can focus on the interesting work! We’ll discover how these tools have been used by participants at collaborative events - translation hackathons and R Dev Days - organised by the R Contribution Working Group in recent years. Finally, I’ll discuss how you can find tasks, get support, and start contributing, so that together we can ensure R continues to thrive for decades to come.
+
+#### Stephanie Zimmer: Transforming a team to open-source first
+
+Three years ago, a small group at my work formed an open-source software committee in a land where statisticians primarily used a commercially available software. We wanted to champion an open-source first initiative and convert people and projects to using open-source software. I will talk about what we did to make this happen and how the process accelerated. Some of the key things I was involved in were open-source office hours which formed a great community, developing an R package when we couldn’t find something we needed in R, and developing small examples of common things we do in our work in R with a comparison to the prior method.
+
+### Equipo TRACE_LAC: Lo invisible del código abierto: Lecciones desde el proyecto TRACE-LAC / Epiverso para conectar el desarrollo de software con la salud pública
+
+Epiverso es una iniciativa colaborativa global liderada por data.org, que pretende desarrollar un ecosistema de análisis de datos confiable dedicado a adelantarse a la próxima crisis de salud pública. Por medio del desarrollo de herramientas analíticas, de alta calidad, de código abierto y transparentes, y de la creación de una comunidad de usuarios.
+
 ## Contribuciones
 
 ### [Encuestas](https://www.youtube.com/playlist?list=PL9-E3cL2KgKl_uhGJ36Fo5FqmrwL5Fkh1)	
