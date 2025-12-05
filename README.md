@@ -126,3 +126,28 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 
 ## Tutoriales
 
+* Inteligencia Artificial Generativa en forma local. LLMs en tu PC usando ollama y ollamar	German Rosatti
+
+* Forecasting with regression models	Rami Krispin
+
+* Tableros con Quarto Dashboards y Crosswalk	Betsi Cohen
+
+* Crea tus propios inputs y outputs en shiny	Samuel Calderon
+
+* Intro a Positron	Paulo Villarroel Tapia
+
+* Introdución a Tidymodels	Francisco Cardozo y Edgar Ruiz
+
+* Automatiza la publicación de tus reportes con Quarto y Github Actions	Jessica Formoso y Maria Nanton
+
+* ¡Miércoles, Git! Manejo de errores en Git y no morir en el intento	Maëlle Salmon y Yanina Bellini Saibene
+
+* Análisis cualitativo para grandes volúmenes de texto con LLMs	Ismael Aguayo y Exequiel Trujillo
+
+* Análisis y visualización de datos funcionales en R con fda.usc y extensiones	Manuel Oviedo de la Fuente
+
+* Coding with AI in RStudio	Juan Cruz Rodriguez y Luis Verde
+
+* Automatización de workflows en R y Python con targets y snakemake	Diana García
+
+* ¿Qué historia vas a contar hoy? Herramientas para una comunicación eficaz	Alejandra Bellini 
