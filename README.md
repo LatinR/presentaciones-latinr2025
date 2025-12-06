@@ -15,7 +15,7 @@ It is 30 years since R was released under an open source license and today R is 
 
 Weblate for contributing translations of errors, warnings and messages, and the R Dev Container for contributing to the code and documentation. These tools require minimal setup, so you can focus on the interesting work! We’ll discover how these tools have been used by participants at collaborative events - translation hackathons and R Dev Days - organised by the R Contribution Working Group in recent years. Finally, I’ll discuss how you can find tasks, get support, and start contributing, so that together we can ensure R continues to thrive for decades to come.
 
-### Stephanie Zimmer: Transforming a team to open-source first
+### [Stephanie Zimmer: Transforming a team to open-source first](https://www.youtube.com/live/xbCT4v5LkD4?si=67j92imPgLWn-eLN&t=3447)
 
 Three years ago, a small group at my work formed an open-source software committee in a land where statisticians primarily used a commercially available software. We wanted to champion an open-source first initiative and convert people and projects to using open-source software. I will talk about what we did to make this happen and how the process accelerated. Some of the key things I was involved in were open-source office hours which formed a great community, developing an R package when we couldn’t find something we needed in R, and developing small examples of common things we do in our work in R with a comparison to the prior method.
 
