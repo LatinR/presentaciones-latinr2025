@@ -83,7 +83,7 @@ Epiverso es una iniciativa colaborativa global liderada por data.org, que preten
 
 * [Mejor código, sin esfuerzos, sin siquiera IA	Maëlle Salmon, Hugo Gruson, Etienne Bacher](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/3.pdf)
 
-8 [Automatizando la Ciencia Abierta con R: Generación de Plantillas Quarto para la Gestión de Software de Investigación	Patricia Loto](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/50.pdf)
+* [Automatizando la Ciencia Abierta con R: Generación de Plantillas Quarto para la Gestión de Software de Investigación	Patricia Loto](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/50.pdf)
 
 ### [Comunidades](https://www.youtube.com/playlist?list=PL9-E3cL2KgKnCyjBIsXbo6h_FbzARZX45)
 
