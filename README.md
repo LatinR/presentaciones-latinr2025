@@ -117,17 +117,17 @@ Epiverso es una iniciativa colaborativa global liderada por data.org, que preten
 
 ### [Aplicaciones 2](https://www.youtube.com/playlist?list=PL9-E3cL2KgKmrc9E3V6PtEUq3ajURhVkd)
 
-* Uso de R para análisis clínicos-transcriptómicos	Paolo Lauretta de Santis, Karina Formoso, JESICA FORMOSO, Vanina Medina
+* [Uso de R para análisis clínicos-transcriptómicos	Paolo Lauretta de Santis, Karina Formoso, JESICA FORMOSO, Vanina Medina](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/48.pdf)
 
-* Uso de R en el mapeo científico de fenómenos de salud mental	Alejandra Tapia
+* [Uso de R en el mapeo científico de fenómenos de salud mental	Alejandra Tapia](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/41-2.pdf)
 
-* Uso de R para la predicción de la evolución de diabetes gestacional con biomarcadores metabolómicos	Jose L. Flores-Guerrero
+* [Uso de R para la predicción de la evolución de diabetes gestacional con biomarcadores metabolómicos	Jose L. Flores-Guerrero](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/25.pdf)
 
-* Entre Pressupostos e Pacientes: docência em estatística aplicada à saúde no Sul do Brasil	Rafaela Gonçalves Ribeiro Lucas
+* [Entre Pressupostos e Pacientes: docência em estatística aplicada à saúde no Sul do Brasil	Rafaela Gonçalves Ribeiro Lucas](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/23.pdf)
 
-* Uso de R y otras herramientas en estudiantes universitarios de Biología (UMAI, Argentina)	María Gabriela Russo, Valeria Arencibia, Daniela del Castillo
+* [Uso de R y otras herramientas en estudiantes universitarios de Biología (UMAI, Argentina)	María Gabriela Russo, Valeria Arencibia, Daniela del Castillo](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/15.pdf)
 
-* Uso de la minería de texto y revisión sistémica en R sobre el Patrimonio biocultural y su valorización económica.	Araceli Esmeralda Villarreal Flores, Naim Manríquez García, Sergio Colín Castillo
+* [Uso de la minería de texto y revisión sistémica en R sobre el Patrimonio biocultural y su valorización económica.	Araceli Esmeralda Villarreal Flores, Naim Manríquez García, Sergio Colín Castillo](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/28.pdf)
 
 ### [LLMs](https://www.youtube.com/playlist?list=PL9-E3cL2KgKmp38SPnJhU79elklcUTH0S)
 
