@@ -109,7 +109,7 @@ Epiverso es una iniciativa colaborativa global liderada por data.org, que preten
 
 * [Funciones Aplicadas a Vectores en Analisis Cuantitativo: revision depagos sociales del ministerio de haciend de Costa Rica	Roberto Delgado Castro](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/5.pdf)
 
-* [Introducción a la evaluación cuantitativa de la política medio ambiental: Una propuesta de Input-Output multi país con R	Kamal Antonio Romero Sookoo, José Manuel Maneiro Jurjo](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/11.pdf)  
+* [Introducción a la evaluación cuantitativa de la política medio ambiental: Una propuesta de Input-Output multi país con R	Kamal Antonio Romero Sookoo, José Manuel Maneiro Jurjo](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/11_corregido.pdf)  
 
 * [Flujos de entrada y salida de la pobreza en hogares durante el periodo 2023-2024 con diagramas de Sankey	Veronica Herrero Zamora](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/16.pdf)
 
